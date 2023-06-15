@@ -1,3 +1,4 @@
+#C:/Program Files/Python38/python.exe" "c:/Users/sharono/OneDrive - QuestarAuto/Desktop/python_project_test/select_data_from_kafka_topic.py"
 # Import KafkaConsumer from Kafka library
 from kafka import KafkaConsumer
 
